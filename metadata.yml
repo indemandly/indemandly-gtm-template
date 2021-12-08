@@ -1,5 +1,5 @@
 ﻿homepage: "https://indemandly.com"
 documentation: "https://indemandly.zendesk.com/"
 versions:
-  - sha: xxx
+  - sha: 74ad4e8d5c729453942d980779669d8fb225bdd3
     changeNotes: Initial release
